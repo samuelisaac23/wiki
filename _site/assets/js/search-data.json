@@ -1,0 +1,62 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Sub Section",
+    "title": "Sub Section with toc",
+    "content": " ",
+    "url": "/docs/db#sub-section-with-toc",
+    "relUrl": "/docs/db#sub-section-with-toc"
+  },"2": {
+    "doc": "Sub Section",
+    "title": "Sub Section",
+    "content": " ",
+    "url": "/docs/db",
+    "relUrl": "/docs/db"
+  },"3": {
+    "doc": "My sample website - samuelisaac23",
+    "title": "My sample website - samuelisaac23",
+    "content": "This is a bare-minimum template to create a Jekyll site that uses the Just the Docs theme. You can easily set the created site to be published on GitHub Pages – the README file explains how to do that, along with other details. If Jekyll is installed on your computer, you can also build and preview the created site locally. This lets you test changes before committing them, and avoids waiting for GitHub Pages.1 And you will be able to deploy your local build to a different platform than GitHub Pages. More specifically, the created site: . | uses a gem-based approach, i.e. uses a Gemfile and loads the just-the-docs gem | uses the GitHub Pages / Actions workflow to build and publish the site on GitHub Pages | . Other than that, you’re free to customize sites that you create with this template, however you like. You can easily change the versions of just-the-docs and Jekyll it uses, as well as adding further plugins. Browse our documentation to learn more about how to use this theme. To get started with creating a site, just click “use this template”! . | It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. &#8617; . | . ",
+    "url": "/",
+    "relUrl": "/"
+  },"4": {
+    "doc": "Lorem",
+    "title": "Lorem",
+    "content": " ",
+    "url": "/docs/db/subdoc1.html",
+    "relUrl": "/docs/db/subdoc1.html"
+  },"5": {
+    "doc": "Lorem",
+    "title": "Para 1",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "url": "/docs/db/subdoc1.html#para-1",
+    "relUrl": "/docs/db/subdoc1.html#para-1"
+  },"6": {
+    "doc": "Lorem",
+    "title": "Lorem",
+    "content": " ",
+    "url": "/docs/db/subdoc2.html",
+    "relUrl": "/docs/db/subdoc2.html"
+  },"7": {
+    "doc": "Lorem",
+    "title": "Para 1",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "url": "/docs/db/subdoc2.html#para-1",
+    "relUrl": "/docs/db/subdoc2.html#para-1"
+  },"8": {
+    "doc": "Lorem",
+    "title": "Para 2",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "url": "/docs/db/subdoc2.html#para-2",
+    "relUrl": "/docs/db/subdoc2.html#para-2"
+  },"9": {
+    "doc": "Lorem",
+    "title": "Para 3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "url": "/docs/db/subdoc2.html#para-3",
+    "relUrl": "/docs/db/subdoc2.html#para-3"
+  }
+}
